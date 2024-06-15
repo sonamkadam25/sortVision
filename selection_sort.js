@@ -1,5 +1,5 @@
 function Selection_sort()
-{
+{ 
     //Setting Time complexities
     document.getElementById("Time_Worst").innerText="O(N^2)";
     document.getElementById("Time_Average").innerText="Θ(N^2)";
