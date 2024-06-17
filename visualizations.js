@@ -1,4 +1,4 @@
-
+ 
 //This section of the code manages the visualization speed and the update of the bars' height and background color during the sorting process.
 
 var speed=1000;
