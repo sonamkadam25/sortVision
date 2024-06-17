@@ -5,7 +5,7 @@ function Bubble()
     document.getElementById("Time_Average").innerText="Θ(N^2)";
     document.getElementById("Time_Best").innerText="Ω(N)";
 
-    //Setting Space complexity
+    //Setting Space complexity 
     document.getElementById("Space_Worst").innerText="O(1)";
 
     c_delay=0;//This control the delay btween visualization process
